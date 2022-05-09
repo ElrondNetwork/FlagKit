@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "GA-ES.png",
+      "filename" : "GL-ES.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "GA-ES@2x.png",
+      "filename" : "GL-ES@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "GA-ES@3x.png",
+      "filename" : "GL-ES@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
