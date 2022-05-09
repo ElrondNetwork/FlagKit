@@ -258,3 +258,10 @@ This set currently includes the 255 flags below:
 | <img src='PNG/ZA@2x.png?raw=true' width='21' height='15'> | ZA | South Africa
 | <img src='PNG/ZM@2x.png?raw=true' width='21' height='15'> | ZM | Zambia
 | <img src='PNG/ZW@2x.png?raw=true' width='21' height='15'> | ZW | Zimbabwe
+
+This set also includes the 3 flags for the following dialects:
+| Flag | Code | Region |
+| :-------------: | :-------------: | ------------- |
+| <img src='PNG/EU-ES@2x.png?raw=true' width='21' height='15'> | EU-ES | Basque (Spain)
+| <img src='PNG/CA-ES@2x.png?raw=true' width='21' height='15'> | CA-ES | Catalan (Spain)
+| <img src='PNG/GL-ES@2x.png?raw=true' width='21' height='15'> | GL-ES | Galician (Spain)

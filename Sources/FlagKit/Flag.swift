@@ -36,6 +36,18 @@ public class Flag: NSObject {
     }
     
     /**
+     Returns a flag if the langauge code is supported, otherwise it returns nil
+     */
+    @objc public init?(langaugeCode: String) {
+        guard let image = UIImage(named: langaugeCode, in: FlagKit.assetBundle, compatibleWith: nil) else {
+            return nil
+        }
+        
+        self.countryCode = ""
+        self.originalImage = image
+    }
+    
+    /**
      Returns a styled flag according to the provided style
      - parameter style: Desired flag style
      */
